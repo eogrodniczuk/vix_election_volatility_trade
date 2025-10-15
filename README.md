@@ -1,4 +1,4 @@
-# October VIX Analysis
+# Volatility Index Equity Trade
 Quantitative research examining whether U.S. presidential election cycles systematically affect implied volatility dynamics in October.
 
 ## Overview
