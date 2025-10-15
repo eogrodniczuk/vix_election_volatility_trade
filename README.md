@@ -1,4 +1,6 @@
-# October VIX Analysis
+# Volatility Index Equity Trade
+
+
 
 ### Quantitative Study on Election-Year Volatility Dynamics (1990–2023)
 
@@ -70,8 +72,6 @@ The workflow mirrors how top macro hedge funds approach research:
 2. Test it empirically using robust statistical methods.  
 3. Evaluate stability across model specifications and data subsamples.
 
----
-
 ## Technical Implementation
 
 **Languages & Tools:**  
@@ -84,8 +84,6 @@ The workflow mirrors how top macro hedge funds approach research:
 - Bootstrap confidence intervals  
 - Data cleaning, feature engineering, and reproducible analysis  
 
----
-
 ## Reproduction Notes
 
 - **Data:** `data/vix_data_raw.xlsx`  
@@ -95,10 +93,14 @@ The workflow mirrors how top macro hedge funds approach research:
 - Bootstrap uses 10,000 resamples with replacement.  
 - Election years highlighted: 1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020.
 
-
 ## Conclusion
 
 This project quantifies how **political transitions transmit into volatility markets**, showing that U.S. election cycles consistently amplify October risk pricing.  
 It demonstrates a research philosophy grounded in **data discipline, statistical rigor, and macroeconomic reasoning** — the same analytical foundations that drive investment research at leading quantitative and macro hedge funds.
 
-### 🔗 Repository Structure
+
+---
+
+**Author:** [Ethan Ogrodniczuk](https://www.linkedin.com/in/ethanogrodniczuk/)  
+Master of Food & Resource Economics (MFRE), University of British Columbia  
+Focus: Macroeconomics • Quantitative Finance • Data-driven Investing
