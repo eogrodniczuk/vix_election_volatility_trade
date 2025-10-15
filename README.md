@@ -5,6 +5,7 @@
 ### Quantitative Study on Election-Year Volatility Dynamics (1990–2023)
 
 This project investigates whether **U.S. presidential elections systematically influence volatility pricing** in equity markets, using the **CBOE Volatility Index (VIX)** as a proxy for implied risk.  
+
 By isolating **October**, a historically pivotal month for volatility repricing, the analysis quantifies how **political uncertainty** manifests in market-implied expectations of risk.
 
 ## Summary of Findings
@@ -21,6 +22,7 @@ Together, these results indicate that **election cycles act as a structural cata
 ## Research Objective
 
 To test whether **U.S. presidential election years** predict **systematic differences in VIX behavior** during October — a month historically associated with elevated market risk events (e.g., 1987, 2008, 2022).  
+
 The analysis combines macroeconomic reasoning with empirical testing to bridge **political-cycle theory** and **market-based risk measurement**.
 
 ## Methodology
@@ -60,6 +62,7 @@ The analysis combines macroeconomic reasoning with empirical testing to bridge *
 ## Interpretation
 
 The results demonstrate that **election-year uncertainty is priced into volatility markets well before election day**.  
+
 This pattern reflects elevated **demand for downside protection** and **systematic volatility risk premia**, consistent with macro-financial models of uncertainty and risk aversion.
 
 Quantitatively, the effect is both **statistically significant** and **economically large** — suggesting that volatility instruments like the VIX internalize political-cycle risk as a recurring structural feature of market behavior.
@@ -67,6 +70,7 @@ Quantitatively, the effect is both **statistically significant** and **economica
 ## Analyst Perspective
 
 This study integrates **macroeconomic intuition** with **empirical market modeling** — translating qualitative political uncertainty into quantifiable risk signals.  
+
 The workflow mirrors how top macro hedge funds approach research:  
 1. Form a hypothesis grounded in real-world dynamics.  
 2. Test it empirically using robust statistical methods.  
@@ -96,11 +100,11 @@ The workflow mirrors how top macro hedge funds approach research:
 ## Conclusion
 
 This project quantifies how **political transitions transmit into volatility markets**, showing that U.S. election cycles consistently amplify October risk pricing.  
-It demonstrates a research philosophy grounded in **data discipline, statistical rigor, and macroeconomic reasoning** — the same analytical foundations that drive investment research at leading quantitative and macro hedge funds.
 
+It demonstrates a research philosophy grounded in **data discipline, statistical rigor, and macroeconomic reasoning** — the same analytical foundations that drive investment research at leading quantitative and macro hedge funds.
 
 ---
 
 **Author:** [Ethan Ogrodniczuk](https://www.linkedin.com/in/ethanogrodniczuk/)  
 Master of Food & Resource Economics (MFRE), University of British Columbia  
-Focus: Macroeconomics • Quantitative Finance • Data-driven Investing
+**Focus:** Macroeconomics • Quantitative Finance • Data-driven Investing
